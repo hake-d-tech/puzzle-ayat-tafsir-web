@@ -170,10 +170,10 @@ export function Home() {
           <p className="text-white/80 text-lg mb-10 max-w-2xl mx-auto">
             Jadikan waktu luang anak lebih bermanfaat dengan aplikasi islami yang mendidik, aman, dan tanpa iklan yang mengganggu.
           </p>
-          <button className="px-10 py-5 bg-[#D4A843] hover:bg-[#c49833] text-white rounded-full font-bold text-xl shadow-xl shadow-[#D4A843]/30 transition-all hover:-translate-y-1 flex items-center justify-center gap-3 mx-auto w-full sm:w-auto">
+          <a href="https://play.google.com/apps/testing/com.haketech.puzzleayattafsir" target="_blank" rel="noopener noreferrer" className="px-10 py-5 bg-[#D4A843] hover:bg-[#c49833] text-white rounded-full font-bold text-xl shadow-xl shadow-[#D4A843]/30 transition-all hover:-translate-y-1 flex items-center justify-center gap-3 mx-auto w-full sm:w-auto">
             <Play className="w-6 h-6 fill-white" />
             Download Sekarang
-          </button>
+          </a>
           <p className="text-white/60 text-sm mt-6">Tersedia gratis di Google Play Store</p>
         </div>
       </section>

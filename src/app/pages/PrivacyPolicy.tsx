@@ -89,7 +89,7 @@ export function PrivacyPolicy() {
             </p>
             <div className="mt-4 p-6 bg-gray-50 rounded-xl border border-gray-100">
               <p className="font-medium text-gray-900">Email:</p>
-              <a href="mailto:hake-d-tech@gmail.com" className="text-[#1B8A6B] hover:underline">hake-d-tech@gmail.com</a>
+              <a href="mailto:hakedtech.contact@gmail.com" className="text-[#1B8A6B] hover:underline">hakedtech.contact@gmail.com</a>
             </div>
           </section>
 

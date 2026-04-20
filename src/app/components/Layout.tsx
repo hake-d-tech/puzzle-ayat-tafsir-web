@@ -30,7 +30,7 @@ export function Layout() {
           </div>
           <p className="text-white/70 text-sm">© {new Date().getFullYear()} Puzzle Ayat Tafsir. All rights reserved.</p>
           <div className="flex gap-4 text-sm text-white/90">
-            <a href="mailto:contact@puzzleayattafsir.com" className="hover:text-[#D4A843] transition-colors">Contact</a>
+            <a href="mailto:hakedtech.contact@gmail.com" className="hover:text-[#D4A843] transition-colors">Contact</a>
             <Link to="/privacy-policy" className="hover:text-[#D4A843] transition-colors">Privacy Policy</Link>
           </div>
         </div>
